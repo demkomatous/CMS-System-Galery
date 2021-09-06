@@ -1,0 +1,36 @@
+h1{
+	margin-bottom: 40px;
+}
+#forms{
+	width: 50%;
+	margin: 50px auto; 
+}
+#forms a{
+	margin-top: 15px;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+#forms input{
+	border-radius: 3px;
+	padding-left: 15px;
+	outline: none;
+	border: none;
+	height: 30px;
+	width: 50%;
+	margin-top: 5px;
+	float: right;
+}
+#forms input[type="submit"]{
+	padding: 0;
+	width: 100px;
+	height: 30px;
+	background: #3e8958;
+	float: right;
+}
+#form{
+	margin-top: 50px;
+}
+#errors{
+	margin-top: 50px;
+}

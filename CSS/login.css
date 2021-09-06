@@ -1,0 +1,41 @@
+h1{
+	margin-bottom: 15px;
+}
+#login{
+	width: 410px;
+	margin: 150px auto;
+}
+#login a, p, h1 {
+	color: white;
+	text-align: center;
+}
+input, textarea{
+	border-radius: 3px;
+	padding-left: 15px;
+	outline: none;
+	border: none;
+	height: 30px;
+	width: 393px;
+	margin-top: 5px;
+}
+textarea{
+	padding: 5px 2px 5px 15px;
+	height: 60px;
+}
+input[type="file"]{
+	color: white;
+	width: 393px;
+	padding-left: 0px;
+}
+input[type="submit"]{
+	padding: 0;
+	width: 100px;
+	height: 30px;
+	background: #3e8958;
+	float: right;
+}
+label{
+	display: block;
+	margin-top: 20px;
+	margin-bottom: -20px;
+}

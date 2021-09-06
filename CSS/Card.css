@@ -1,0 +1,35 @@
+.clear{
+	clear: both;
+}
+.center{
+	text-align: center;
+}
+.card p, .card h2{
+	padding: 0 30px 30px 30px;
+	color: white;
+}
+.card, .card img{
+	background: #1b1e1e;
+	max-width: 60%;
+	margin: 50px auto;
+}
+.card img{
+	max-width: 80%;
+}
+.information{
+	margin-top: 15px;
+	float: right;
+}
+.information p{
+	margin: 0;
+	padding: 0 10px 0px;
+}
+.information p:last-child{
+	padding-bottom: 15px;
+}
+.center a{
+	margin-right: 25px;
+}
+.setting{
+	margin-top: -30px;
+}

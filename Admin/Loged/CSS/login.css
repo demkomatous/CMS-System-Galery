@@ -1,0 +1,59 @@
+h1{
+	margin-top: 0;
+	margin-bottom: 15px;
+	padding-top: 50px;
+}
+form{
+	display: unset;
+}
+#login{
+	width: 410px;
+	margin: 0 auto;
+}
+#login a, p, h1 {
+	color: white;
+	text-align: center;
+}
+#login input,#login textarea{
+	border-radius: 3px;
+	padding-left: 15px;
+	outline: none;
+	border: none;
+	height: 30px;
+	width: 393px;
+	margin-top: 5px;
+}
+#login textarea{
+	padding: 5px 2px 5px 15px;
+	height: 60px;
+}
+input[type="file"]{
+	color: white;
+	width: 393px;
+	padding-left: 0px;
+}
+#login input[type="submit"]{
+	padding: 0;
+	width: 100px;
+	height: 30px;
+	background: #3e8958;
+	float: right;
+}
+#login a{
+	display: block;
+	padding: 0;
+	margin: 50px auto;
+	width: 200px;
+	height: 30px;
+	border-radius: 3px;
+	color: black;
+	line-height: 30px;
+	text-decoration: none;
+	background: #3e8958;
+}
+label{
+	color: white;
+	display: block;
+	margin-top: 20px;
+	margin-bottom: -20px;
+}

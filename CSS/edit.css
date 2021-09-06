@@ -1,0 +1,63 @@
+.card h2{
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.card p{
+	padding: 0;
+	font-size: 20px;
+	color: white;
+}
+.card a{
+	color: white;
+	text-decoration: none;
+}
+.card a:visited{
+	color: white;
+}
+p.pozn{
+	margin-top: 8px;
+	font-size: 15px;
+}
+p.leftText{
+	padding-left: 30px;
+}
+.leftInput{
+	margin-left: 30px;
+}
+.rightInput{
+	margin-right: 30px;
+}
+textarea{
+	display: block;
+	margin: 0 auto;
+	min-height: 250px;
+	width: 80%;
+	background: #1b1e1e;
+	padding: 7px;
+	color: white;
+	font-size: 20px;
+	border: 1px solid #3e8958;
+}
+textarea:focus-visible{
+	outline: none;
+	border: 1.5px solid #3e8958;
+}
+input[type="text"]{
+	background: #1b1e1e;
+	padding: 7px;
+	color: white;
+	font-size: 24px;
+	border: 1px solid #3e8958;
+}
+input[type="submit"]{
+	margin-top: 30px;
+	outline: none;
+	background: #3e8958;
+	border: none;
+	border-radius: 2px;
+	height: 25px;
+}
+input:focus-visible{
+	outline: none;
+	border: 1.5px solid #3e8958;
+}

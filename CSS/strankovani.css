@@ -1,0 +1,30 @@
+.numbers{
+	width: 345px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.DBdataTable{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.tableHeader{
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+}
+.DBdata {
+	padding-right: 30px;
+}
+.href{
+	width: 30px;
+	height: 30px;
+}
+.href a{
+	color: white;
+}
+.href a:visited{
+	color: white;
+}
+.current{
+	color: red;
+}
